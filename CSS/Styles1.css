@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+}
+.container{
+    text-align: center;
+    background-color: yellow;
+}
+label{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+fieldset{
+    background-color: green;
+}
